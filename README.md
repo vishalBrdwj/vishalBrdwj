@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @vishal Bhardwaj
-- 👀 I’m interested in frontEnd development
-- 🌱 I’m currently learning DSA (Java script)
-- 
+- 👀 I’m interested in frontEnd developmen
 
 <!---
 vishalBrdwj/vishalBrdwj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
